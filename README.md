@@ -1,5 +1,4 @@
 # Spotify-Clone
-Here's a description for your Spotify clone project:
 
 ---
 **Overview:**
@@ -30,6 +29,3 @@ This project is a fully responsive Spotify clone, built using HTML, CSS, and Jav
 **Conclusion:**
 The Spotify clone project is a demonstration of web development skills, showcasing the ability to build complex, responsive web applications with a focus on user experience and functionality.
 
----
-
-This description outlines the project’s purpose, technologies used, and the challenges encountered during development, making it ideal for portfolios or presentations.
